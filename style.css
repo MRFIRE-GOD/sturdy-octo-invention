@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Merienda', cursive;
+    font-family: 'Pacifico', cursive;
+}
+.head-title{
+    height: 156px;
+}
+
+.head-title h1{
+    font-family: 'Alex Brush', cursive;
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 60px;
+}
+
+.head-title img{
+    background: aquamarine;
+}
+
+.head-title p{
+    font-size: 25px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.head-title .left{
+    padding-left: 3%;
+    float: left;
+}
+
+.head-title .right{
+    line-height: 160px;
+    text-align: center;
+    float: right;
+    padding-right: 30%;
+}
